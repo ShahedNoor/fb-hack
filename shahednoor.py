@@ -56,9 +56,9 @@ logo = """
 \033[0;31m██║░╚═╝░██   ║██████╔╝
 \033[0;36m╚═╝░░░░░╚═╝  ╚═════╝
 \033[0;39m╔▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬╗
-\033[0;39m║\033[0;36m* \033[0;36mAuthor  \033[1;36m : \033[1;31mMohammad Monir Sarkar\033[0;31m║
-\033[0;39m║\033[1;33m* \033[1;33mFacebook  \033[1;33m : \033[1;33m\033[4mhttps://facebook.com/mscybercity\033[0m \033[0;31m║
-\033[0;39m║\033[0;36m* \033[0;32mYoutube \033[1;32m: \033[1;32mwww.youtube.com/MonirModS\033[0;31m║
+\033[0;39m║\033[0;36m* \033[0;36mAuthor  \033[1;36m : \033[1;31mShahed Noor\033[0;31m║
+\033[0;39m║\033[1;33m* \033[1;33mFacebook  \033[1;33m : \033[1;33m\033[4mhttps://www.facebook.com/shahed.noor.566\033[0m \033[0;31m║
+\033[0;39m║\033[0;36m* \033[0;32mYoutube \033[1;32m: \033[1;32mhttps://www.youtube.com/channel/UCIXobCPf8An4fXHr_fuXRgg\033[0;31m║
 \033[0;39m╚▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬╝"""
 
 def tik():
@@ -79,13 +79,13 @@ vuln = "\033[32mVuln"
 os.system("clear")
 print "\x1b[0;31m⚔════════════════════════☠════════════════════════⚔"
 print  """\x1b[0;31m [¤] \x1b[0;31mASSALAMUALAIKUM\x1b[0;31m  \033[1;96m   
-\033[1;96m[¤] \x1b[0;31mYoutube : Monir ModS\x1b[1;96m  
-\033[1;93m[¤] \x1b[0;31mFACEBOOK : MS Cyber City\x1b[1;96m  
-\033[1;93m[¤] \x1b[0;31mCreator  : MOHAMMAD MONIR SARKAR \x1b[0;31m"""
+\033[1;96m[¤] \x1b[0;31mYoutube : Cyber Noor\x1b[1;96m  
+\033[1;93m[¤] \x1b[0;31mFACEBOOK : Online Creative Cloud\x1b[1;96m  
+\033[1;93m[¤] \x1b[0;31mCreator  : Shahed Noor \x1b[0;31m"""
 print " \x1b[1;93m⚔═══════════════════════☠════════════════════════⚔"
 
-CorrectUsername = "monir"
-CorrectPassword = "monir"
+CorrectUsername = "Noor"
+CorrectPassword = "Noor"
 
 loop = 'true'
 while (loop == 'true'):
@@ -97,10 +97,10 @@ while (loop == 'true'):
             loop = 'false'
         else:
             print "Tool Username or Password Is Wrong"
-            os.system('xdg-open https://youtube.com/MonirModS')
+            os.system('xdg-open https://www.youtube.com/channel/UCIXobCPf8An4fXHr_fuXRgg')
     else:
         print "Subscribe My Channel"
-        os.system('xdg-open https://youtube.com/MonirModS')
+        os.system('xdg-open https://www.youtube.com/channel/UCIXobCPf8An4fXHr_fuXRgg')
 
 def login():
 	os.system('clear')
@@ -301,7 +301,7 @@ def pilih_super():
 	print "\n\033[1;94m        ❈     \x1b[1;91mTo Stop Process Press CTRL+Z \033[1;94m    ❈"
 	print "   \033[1;31;48m●══════════════════════☠══════════════════════●"
 
-	jalan('            \033[1;91mMONIRVAI TOOLs Start Hacking Wait...')
+	jalan('            \033[1;91mSHAHEDNOOR TOOLs Start Hacking Wait...')
 	print  "  \033[1;36;48m ●══════════════════════☠══════════════════════●" 
 
 	def main(arg):
